@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![CI](https://github.com/gaosu0715-lgtm/Evolutionary-Alpha-Miner/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/rixinwang032-eng/Evolutionary-Alpha-Miner-v2/actions/workflows/ci.yml/badge.svg)
 
 Evolutionary Alpha Miner is a reproducible research toolkit for family-aware symbolic alpha discovery. It keeps the original research idea intact: normalize seed expressions, avoid duplicate families, sample diverse A-B parents, generate constrained hybrids, and feed evaluation results back into the search loop.
 
@@ -23,8 +23,8 @@ The original prototype was a single demonstration script. This version makes the
 ## Quickstart
 
 ```bash
-git clone https://github.com/gaosu0715-lgtm/Evolutionary-Alpha-Miner.git
-cd Evolutionary-Alpha-Miner
+git clone https://github.com/rixinwang032-eng/Evolutionary-Alpha-Miner-v2.git
+cd Evolutionary-Alpha-Miner-v2
 python -m venv .venv
 # macOS/Linux: source .venv/bin/activate
 # Windows PowerShell: .venv\Scripts\Activate.ps1
