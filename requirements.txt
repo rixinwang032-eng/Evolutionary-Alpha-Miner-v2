@@ -1,0 +1,3 @@
+# Runtime dependencies are intentionally empty.
+# Install the project with: python -m pip install -e .
+# Development tools: python -m pip install -e ".[dev]"
